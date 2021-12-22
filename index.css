@@ -1,0 +1,42 @@
+body{
+    font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth !important;
+}
+
+#footer{
+    background-color: white;
+    color: #BAFFDF;
+}
+
+#nav{
+    background-color: #7C7287;
+}
+
+#footer{
+    background-color: #7C7287;
+}
+
+.navbar-brand{
+    color: #BAFFDF !important;
+}
+
+.nav-link{
+    color: #BAFFDF !important;
+}
+
+h2{
+    color: #BAFFDF;
+    font-weight: bold;
+}
+
+.container{
+   margin-top: 2%; 
+}
+
+#carousel{
+    margin-top: 1%;
+}
+
+#cakeprocfoto{
+    margin-bottom: 5%;
+}
